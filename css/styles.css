@@ -103,6 +103,11 @@ html, body {
     -o-transform: scale(1.2);
     transform: scale(1.2);
   }
+
+  .hobbies{
+      text-align:center;
+      color:blue;
+  }
   
   .containercontact {
 	max-width:400px;
